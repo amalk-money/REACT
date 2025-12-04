@@ -1,0 +1,17 @@
+div {
+  background-color: coral;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+h1 {
+  color: darkred;
+}
+
+h2 {
+  color: darkgreen;
+}
+
+p {
+  color:rgb(14, 46, 104)
+}
